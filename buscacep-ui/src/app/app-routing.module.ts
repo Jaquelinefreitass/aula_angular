@@ -5,7 +5,7 @@ import { CnpjComponent } from './cnpj/cnpj.component';
 
 const routes: Routes = [
   { path: 'cep', component: CepComponent },
-  { path: 'cnpj', component: CnpjComponent},
+  { path: 'cnpj', component: CnpjComponent },
 ];
 
 @NgModule({
